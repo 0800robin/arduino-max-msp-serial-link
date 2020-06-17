@@ -1,2 +1,2 @@
-# ardunio-max-serial-link
-A simple Ardunio sketch which sends data to a Max patch
+# Arduino-max-serial-link
+A simple Arduino sketch which sends data to a Max patch
